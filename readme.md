@@ -5,6 +5,7 @@ Methods Followed:
 4.k means clustering algorithm with 3 clusters gives us the different colour pixels in the image.
 5. plotting RGB values of skin using histogram of clustering algorithm.
 6.Classifying color of a person based on Von Luschan classification.
+
 Remarks:
 1.This model takes some time to train datasets.but it accuracy is good.
 
